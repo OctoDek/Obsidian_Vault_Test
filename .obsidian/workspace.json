@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb4d0d979c7b885c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3e85457c1a129a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Test 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "878f1f7f198c8ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 2.md",
+                "file": "Test 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test 2.md",
+                "file": "Test 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test 2.md"
+                "file": "Test 3.md"
               }
             }
           }
@@ -167,9 +171,43 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3e85457c1a129a0c",
+  "floating": {
+    "id": "2843d12e39619bca",
+    "type": "floating",
+    "children": [
+      {
+        "id": "792eeec679c53e17",
+        "type": "window",
+        "children": [
+          {
+            "id": "8ff1e444550816e2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb4d0d979c7b885c",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1835,
+        "y": 114,
+        "width": 1576,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "878f1f7f198c8ba9",
   "lastOpenFiles": [
-    "Test.md",
-    "Test 2.md"
+    "Test 3.md",
+    "Test 2.md",
+    "Test.md"
   ]
 }
